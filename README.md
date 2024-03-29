@@ -1,5 +1,7 @@
 # Advanced-Oregon-Trail
+
 <img width="305" alt="demo1" src="https://github.com/kevinaaaaaaa22/Advanced-Oregon-Trail/assets/50088882/ddf48508-2b55-4d02-b1d3-a53604a4d714">
+
 - Oregon Trail, but it never ends!
 - Created for a school project
 
